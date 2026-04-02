@@ -1,7 +1,7 @@
 # Olá 👋, Eu sou a Carla 
 
 
-Atualmente graduanda em **Sistemas de Informação** pelo IF Goiano , busco oportunidades para aplicar meus conhecimentos tecnicos. Tenho experiência prática em monitoria de tecnologia, pesquisa em robótica educacional e desenvolvimento de sistemas utilizando linguagens modernas.
+Atualmente graduanda em Sistemas de Informação pelo IF Goiano , busco oportunidades para aplicar meus conhecimentos tecnicos. Tenho experiência prática em monitoria de tecnologia, pesquisa em robótica educacional e desenvolvimento de sistemas utilizando linguagens modernas.
 
 ---
 
