@@ -8,9 +8,7 @@ Atualmente graduanda em Sistemas de Informação pelo IF Goiano , busco oportuni
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/WhiteFlowey">
-    <img src="https://img.shields.io/badge/GitHub-WhiteFlowey-181717?style=for-the-badge&logo=github" />
-  </a>
+
   <a href="https://linkedin.com/in/carla-monteiro-brandao">
     <img src="https://img.shields.io/badge/LinkedIn-CARLA%20MONTEIRO-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
