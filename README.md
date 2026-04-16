@@ -42,6 +42,15 @@ Atualmente graduanda em Sistemas de Informação pelo IF Goiano , busco oportuni
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WhiteFlowey&show_icons=true&theme=radical&title_color=ff00ff&text_color=c0c0c0&icon_color=ff00ff&bg_color=0d1117&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteFlowey&layout=compact&theme=radical&title_color=ff00ff&text_color=c0c0c0&bg_color=0d1117&hide_border=true"/>
+</p>
+
+
+
 ## 🚀 Philosophy
 
 > _"Code is not just about solving problems.  
